@@ -38,6 +38,6 @@ To run tests, see ./test/README.md.
 - ./optee_client-3.21.0: see also https://github.com/OP-TEE/optee_client
 - ./optee_examples: we added some native benchmark apps here.
 - ./optee_os-3.21.0: we added gpio, i2c and spi drivers for rpi3b, some sensor drivers and io helper PTA.
-- ./optee_test-3.21.0: we added out native lib in ./optee_test-3.21.0/ta/native_tzio
+- ./optee_test-3.21.0: we added out native lib in ./optee_test-3.21.0/ta/native_tzio.
 - ./runtime-modified: we modified WAMR to support async io (future and callback).
 - ./test: contains our example wasm applications for IO functions and benchmarks, check ./test/README.md for more details.
