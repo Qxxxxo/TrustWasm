@@ -1,0 +1,14 @@
+#ifndef TRUSTED_WARNING_H
+#define TRUSTED_WARNING_H
+
+#define LED_GPIO_GREEN_PIN 21
+#define LED_GPIO_RED_PIN 26
+#define GPIO_MODE_OUTPUT 1
+#define GPIO_HIGH_LEVEL	1
+#define GPIO_LOW_LEVEL 0
+
+#define ALERT_TEMP 30.0f
+#define ALERT_HUM 20.0f
+#define ALERT_PRESSURE 1100.0f	
+
+#endif

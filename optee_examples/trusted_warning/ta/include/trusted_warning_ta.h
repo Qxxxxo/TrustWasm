@@ -1,0 +1,12 @@
+#ifndef TA_TRUSTED_WARNING_H
+#define TA_TRUSTED_WARNING_H
+
+// 16220cc4-6832-49ea-8c7f-7571961bbdb9
+#define TA_TRUSTED_WARNING_UUID \
+	{ 0x16220cc4, 0x6832, 0x49ea, \
+		{ 0x8c, 0x7f, 0x75, 0x71, 0x96, 0x1b, 0xbd, 0xb9} }
+
+
+#define TA_TRUSTED_WARNING_CMD_RUN_TRUSTED_WARNING	0
+
+#endif
