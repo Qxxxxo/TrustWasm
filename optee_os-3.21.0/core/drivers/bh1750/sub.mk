@@ -1,0 +1,1 @@
+srcs-$(CFG_BH1750FVI) += bh1750fvi.c

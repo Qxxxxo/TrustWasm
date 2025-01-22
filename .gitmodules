@@ -1,0 +1,18 @@
+[submodule "linux"]
+	path = linux
+	url = https://github.com/linaro-swg/linux.git
+[submodule "buildroot"]
+	path = buildroot
+	url = https://github.com/buildroot/buildroot.git
+[submodule "trusted-firmware-a"]
+	path = trusted-firmware-a
+	url = https://github.com/ARM-software/arm-trusted-firmware.git
+[submodule "u-boot"]
+	path = u-boot
+	url = https://github.com/u-boot/u-boot.git
+[submodule "firmware"]
+	path = firmware
+	url = https://github.com/raspberrypi/firmware.git
+[submodule "optee_benchmark"]
+	path = optee_benchmark
+	url = https://github.com/linaro-swg/optee_benchmark.git

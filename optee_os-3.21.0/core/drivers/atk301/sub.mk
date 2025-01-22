@@ -1,0 +1,1 @@
+srcs-$(CFG_ATK301) += atk301.c

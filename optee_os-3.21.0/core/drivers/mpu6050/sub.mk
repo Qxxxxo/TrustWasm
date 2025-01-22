@@ -1,0 +1,1 @@
+srcs-$(CFG_MPU6050) += mpu6050.c

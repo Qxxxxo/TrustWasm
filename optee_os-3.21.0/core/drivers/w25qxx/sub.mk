@@ -1,0 +1,1 @@
+srcs-$(CFG_W25QXX) += w25qxx.c

@@ -1,0 +1,1 @@
+srcs-$(CFG_TEL0157) += tel0157.c

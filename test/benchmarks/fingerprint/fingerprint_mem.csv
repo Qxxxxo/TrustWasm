@@ -1,0 +1,10 @@
+Mode,Type,Max Bytes
+native,native,25744
+aot,watz,10533808
+wasm,watz,10519840
+aot,TrustWasm sync,10533984
+wasm,TrustWasm sync,10519888
+aot,TrustWasm future,10533952
+wasm,TrustWasm future,10519936
+aot,TrustWasm callback,10575936
+wasm,TrustWasm callback,10520880
