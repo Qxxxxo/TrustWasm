@@ -39,6 +39,6 @@ cd ./test/benchmarks/trusted_storage
 ```
 ---
 ## Updates
-We add an experiment for power and sample rate under `trusted_warning_power`.
+We add an experiment for power and sample rate under `benchmarks/trusted_warning_power`.
 
 
