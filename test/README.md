@@ -1,5 +1,4 @@
 Tests for TrustWasm
-modified based on WaTZ
 
 ----
 
@@ -27,9 +26,10 @@ cd ./test/rpi3-gpio/
 ./deploy.sh
 ./run.sh
 ```
----
+----
 ## Benchmarks
 For example (rpi3b+ ipv4 is configured as 192.168.13.2, while Build Machine ipv4 is configured as 192.168.13.1 )
+
 ```
 cd ./test/benchmarks/trusted_storage
 ./build.sh sync.c
@@ -37,5 +37,8 @@ cd ./test/benchmarks/trusted_storage
 ./run aot
 
 ```
+---
+## Updates
+We add an experiment for power and sample rate under `trusted_warning_power`.
 
 
